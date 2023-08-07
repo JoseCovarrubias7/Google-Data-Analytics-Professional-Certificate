@@ -1,4 +1,4 @@
-# EN
+## EN
 
 # Case study : How can a wellness company make smart decisions?
 
@@ -6,7 +6,7 @@ In this case study, you will analyze data for Bellabeat, a manufacturer of high-
 
 # Caso práctico : ¿Cómo puede hacer una empresa de bienestar para tomar decisiones inteligentes?
 
-# ES
+## ES
 
 En este caso práctico, analizarás datos para Bellabeat, fabricante de productos de alta tecnología orientados a la salud de la mujer. Analizarás los datos de dispositivos inteligentes para conocer cómo los clientes usan sus dispositivos inteligentes. Tu análisis te guiará en futuras estrategias de marketing de tu equipo. A lo largo del camino, realizarás numerosas tareas del mundo real, típicas de un analista de datos júnior, en las que aplicarás los pasos del proceso de análisis de datos: Preguntar, Preparar, Procesar, Analizar, Compartir y Actuar. Cuando hayas terminado, tendrás un caso práctico de portafolio listo para poder demostrar tus conocimientos y habilidades a los posibles empleadores.
 

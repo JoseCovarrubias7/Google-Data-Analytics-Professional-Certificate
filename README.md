@@ -1,4 +1,4 @@
-# Google Data Analytics Professional Certificate
+# [Link](https://www.coursera.org/professional-certificates/google-data-analytics/ "Google Data Analytics Professional Certificate")
 
 Professional certificate: series of 8 courses
 
